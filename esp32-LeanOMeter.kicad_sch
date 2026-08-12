@@ -2275,6 +2275,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "3ebeb799-91ee-436e-b244-5bd739af7f12")
 	)
@@ -2316,6 +2317,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "446608f1-30aa-4217-b919-9d01e01d0e78")
 	)
@@ -2346,6 +2348,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "54aebff6-14bc-4c1b-9c07-cd2e770a55f1")
 	)
@@ -2428,6 +2431,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "92a67563-5e7d-4373-8db9-5d387c071693")
 	)
@@ -2449,6 +2453,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "aa8016aa-f0c1-4bed-a40c-1b4c659a41ce")
 	)
@@ -2459,6 +2464,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "bbce3f76-279d-4356-b14b-616b74551210")
 	)
@@ -2479,6 +2485,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "dedde983-6e03-4158-ad75-3d6704b4b096")
 	)
@@ -2489,6 +2496,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 245 23 255 1)
 		)
 		(uuid "e5002338-ff70-4e40-adef-91eda057a688")
 	)
@@ -2807,6 +2815,17 @@
 				)
 			)
 		)
+		(property "Sim.Library" "/home/miniflint/Téléchargements/doit-esp32-devkit-v1.lib"
+			(at 137.16 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "19"
 			(uuid "3c1e36f6-0e7f-4d09-a42e-4cfb8e43edaa")
 		)
@@ -3003,14 +3022,6 @@
 		(uuid "1744d3e8-c69a-4e43-86fa-b24df5c740e1")
 		(members "4dccd910-0284-4675-a089-d674213da4eb" "5de0a03b-c2a3-48b5-ba01-44cfc202d251"
 			"8a1340de-9a55-4677-be8e-6817371f4a80" "eac825b5-d593-4316-a6df-072ae1b89810"
-		)
-	)
-	(group ""
-		(uuid "79d71e92-a45b-45f4-932e-f316d1c12fdb")
-		(members "099bbe6f-28d9-41e6-8c43-dfda91c3b70a" "3ebeb799-91ee-436e-b244-5bd739af7f12"
-			"446608f1-30aa-4217-b919-9d01e01d0e78" "92a67563-5e7d-4373-8db9-5d387c071693"
-			"a56e62b3-9ab2-4e02-88d3-b48ee172ba2c" "aa8016aa-f0c1-4bed-a40c-1b4c659a41ce"
-			"bbce3f76-279d-4356-b14b-616b74551210"
 		)
 	)
 	(group ""
