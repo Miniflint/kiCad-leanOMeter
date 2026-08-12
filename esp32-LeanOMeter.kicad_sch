@@ -2641,7 +2641,7 @@
 			(uuid "ef955014-311a-4b9a-84da-d229e48d968e")
 		)
 		(instances
-			(project "esp32_manu_help"
+			(project "esp32-LeanOMeter"
 				(path "/c8113a88-3f0b-41cf-aa1d-39b6ca252e7b"
 					(reference "J4")
 					(unit 1)
@@ -2734,7 +2734,7 @@
 			(uuid "5b1126fb-987f-4a3f-9815-2d1bcced1eda")
 		)
 		(instances
-			(project "esp32_manu_help"
+			(project "esp32-LeanOMeter"
 				(path "/c8113a88-3f0b-41cf-aa1d-39b6ca252e7b"
 					(reference "J1")
 					(unit 1)
@@ -2898,7 +2898,7 @@
 			(uuid "84c04881-cbb4-437c-a0d0-3337d568716e")
 		)
 		(instances
-			(project "esp32_manu_help"
+			(project "esp32-LeanOMeter"
 				(path "/c8113a88-3f0b-41cf-aa1d-39b6ca252e7b"
 					(reference "J2")
 					(unit 1)
@@ -2985,7 +2985,7 @@
 			(uuid "fc17d609-4972-4e4b-af99-0632b4788d00")
 		)
 		(instances
-			(project "esp32_manu_help"
+			(project "esp32-LeanOMeter"
 				(path "/c8113a88-3f0b-41cf-aa1d-39b6ca252e7b"
 					(reference "J3")
 					(unit 1)

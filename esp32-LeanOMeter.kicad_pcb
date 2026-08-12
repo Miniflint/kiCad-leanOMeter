@@ -152,7 +152,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/4e27b21a-839b-4a99-92f3-7a086e95377a")
 		(sheetname "/")
-		(sheetfile "esp32_manu_help.kicad_sch")
+		(sheetfile "esp32-LeanOMeter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -492,7 +492,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/7a1e2318-9bfc-4b58-95d5-89457c88865a")
 		(sheetname "/")
-		(sheetfile "esp32_manu_help.kicad_sch")
+		(sheetfile "esp32-LeanOMeter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -788,7 +788,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a56e62b3-9ab2-4e02-88d3-b48ee172ba2c")
 		(sheetname "/")
-		(sheetfile "esp32_manu_help.kicad_sch")
+		(sheetfile "esp32-LeanOMeter.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1054,7 +1054,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/80b1b208-6bea-4dd4-9df7-f4012630f6eb")
 		(sheetname "/")
-		(sheetfile "esp32_manu_help.kicad_sch")
+		(sheetfile "esp32-LeanOMeter.kicad_sch")
 		(units
 			(unit
 				(name "A")

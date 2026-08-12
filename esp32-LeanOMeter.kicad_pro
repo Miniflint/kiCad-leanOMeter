@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp32_manu_help.kicad_pro",
+    "filename": "esp32-LeanOMeter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -644,7 +644,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp32_manu_help.kicad_sch",
+        "filename": "esp32-LeanOMeter.kicad_sch",
         "name": "Root",
         "uuid": "c8113a88-3f0b-41cf-aa1d-39b6ca252e7b"
       }
